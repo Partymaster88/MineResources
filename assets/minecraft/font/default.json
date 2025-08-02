@@ -132,6 +132,13 @@
             "ascent": 23,
             "height": 30,
             "chars": ["\uE012"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/fp_adventure_valley.png",
+            "ascent": 23,
+            "height": 30,
+            "chars": ["\uE013"]
         }
     ]
 }
