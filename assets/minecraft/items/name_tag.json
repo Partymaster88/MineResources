@@ -1,0 +1,69 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/name_tag"
+        },
+
+        "cases": [
+            {
+                "when": "fp_train_model",
+                "model": {
+                    "type": "model",
+                    "model": "custom/fp_train_model"
+                }
+            },
+            {
+                "when": "fp_park_bench",
+                "model": {
+                    "type": "model",
+                    "model": "custom/fp_park_bench"
+                }
+            },
+            {
+                "when": "fp_ha_train_open",
+                "model": {
+                    "type": "model",
+                    "model": "custom/fp_ha_train_open"
+                }
+            },
+            {
+                "when": "fp_ha_train_close",
+                "model": {
+                    "type": "model",
+                    "model": "custom/fp_ha_train_close"
+                }
+            },
+            {
+                "when": "fp_gt_cart_open",
+                "model": {
+                    "type": "model",
+                    "model": "custom/fp_gt_cart_open"
+                }
+            },
+            {
+                "when": "fp_gt_cart_close",
+                "model": {
+                    "type": "model",
+                    "model": "custom/fp_gt_cart_close"
+                }
+            },
+            {
+                "when": "fp_sign_holder",
+                "model": {
+                    "type": "model",
+                    "model": "custom/fp_sign_holder"
+                }
+            },
+            {
+                "when": "fp_explorer",
+                "model": {
+                    "type": "model",
+                    "model": "custom/fp_explorer"
+                }
+            }
+        ]
+    }
+}

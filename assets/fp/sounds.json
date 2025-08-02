@@ -1,0 +1,201 @@
+{
+  "entrance_jingle": {
+      "sounds": [
+          "fp:entrance/entrance_jingle"
+      ]
+  },
+  "watershow_music_m": {
+      "sounds": [
+          "fp:watershow/fp_wassershow_mono"
+      ]
+  },
+  "watershow_music_s": {
+      "sounds": [
+          "fp:watershow/fp_wassershow_stereo"
+      ]
+  },
+  "watershow_info_m": {
+      "sounds": [
+          "fp:watershow/fp_wassershow_info_mono"
+      ]
+  },
+  "horseride_waltz_s": {
+      "sounds": [
+          "fp:horseride/horseride_waltz_s"
+      ]
+  },
+  "gt_albertius_1": {
+      "sounds": [
+          "fp:ghost-train/Albertius_1"
+      ]
+  },
+  "gt_albertius_2": {
+      "sounds": [
+          "fp:ghost-train/Albertius_2"
+      ]
+  },
+  "gt_albertius_3": {
+      "sounds": [
+          "fp:ghost-train/Albertius_3"
+      ]
+  },
+  "gt_albertius_4": {
+      "sounds": [
+          "fp:ghost-train/Albertius_4"
+      ]
+  },
+  "gt_albertius_5": {
+      "sounds": [
+          "fp:ghost-train/Albertius_5"
+      ]
+  },
+  "gt_albertius_6": {
+      "sounds": [
+          "fp:ghost-train/Albertius_6"
+      ]
+  },
+  "gt_albertius_7": {
+      "sounds": [
+          "fp:ghost-train/Albertius_7"
+      ]
+  },"gt_albertius_8": {
+      "sounds": [
+          "fp:ghost-train/Albertius_8"
+      ]
+  },
+  "gt_albertius_9": {
+      "sounds": [
+          "fp:ghost-train/Albertius_9"
+      ]
+  },
+  "attrinfo_an_door": {
+      "sounds": [
+          "fp:announcements/attrinfo_an_door"
+      ]
+  },
+  "attrinfo_an_exit": {
+      "sounds": [
+          "fp:announcements/attrinfo_an_exit"
+      ]
+  },
+  "attrinfo_an_smoking": {
+      "sounds": [
+          "fp:announcements/attrinfo_an_smoking"
+      ]
+  },
+  "attrinfo_an_train": {
+      "sounds": [
+          "fp:announcements/attrinfo_an_train"
+      ]
+  },
+  "attrstatus_an_close": {
+      "sounds": [
+          "fp:announcements/attrstatus_an_close"
+      ]
+  },
+  "attrstatus_an_evaq": {
+      "sounds": [
+          "fp:announcements/attrstatus_an_evaq"
+      ]
+  },
+  "attrstatus_an_patience": {
+      "sounds": [
+          "fp:announcements/attrstatus_an_patience"
+      ]
+  },
+  "attrstatus_an_reopen": {
+      "sounds": [
+          "fp:announcements/attrstatus_an_reopen"
+      ]
+  },
+  "attrstatus_an_tech_evaq": {
+      "sounds": [
+          "fp:announcements/attrstatus_an_tech_evaq"
+      ]
+  },
+  "attrstatus_an_wait": {
+      "sounds": [
+          "fp:announcements/attrstatus_an_wait"
+      ]
+  },
+  "global_an_close": {
+      "sounds": [
+          "fp:announcements/global_an_close"
+      ]
+  },
+  "global_an_evaqclose": {
+      "sounds": [
+          "fp:announcements/global_an_evaqclose"
+      ]
+  },
+  "global_an_expired": {
+      "sounds": [
+          "fp:announcements/global_an_expired"
+      ]
+  },
+  "global_an_extend": {
+      "sounds": [
+          "fp:announcements/global_an_extend"
+      ]
+  },
+  "global_an_open": {
+      "sounds": [
+          "fp:announcements/global_an_open"
+      ]
+  },
+  "global_an_opening": {
+      "sounds": [
+          "fp:announcements/global_an_opening"
+      ]
+  },
+  "global_an_weather": {
+      "sounds": [
+          "fp:announcements/global_an_weather"
+      ]
+  },
+  "show_an_aventura_end": {
+      "sounds": [
+          "fp:announcements/show_an_aventura_end"
+      ]
+  },
+  "show_an_aventura": {
+      "sounds": [
+          "fp:announcements/show_an_aventura"
+      ]
+  },
+  "show_an_cancel": {
+      "sounds": [
+          "fp:announcements/show_an_cancel"
+      ]
+  },
+  "show_an_general_end": {
+      "sounds": [
+          "fp:announcements/show_an_general_end"
+      ]
+  },
+  "show_an_general": {
+      "sounds": [
+          "fp:announcements/show_an_general"
+      ]
+  },
+  "show_an_stop": {
+      "sounds": [
+          "fp:announcements/show_an_stop"
+      ]
+  },
+  "show_an_waves_end": {
+      "sounds": [
+          "fp:announcements/show_an_waves_end"
+      ]
+  },
+  "show_an_waves": {
+      "sounds": [
+          "fp:announcements/show_an_waves"
+      ]
+  },
+  "entrance_theme_m": {
+      "sounds": [
+          "fp:entrance/theme_entrance_m"
+      ]
+  }
+}

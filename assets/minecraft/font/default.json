@@ -1,0 +1,137 @@
+{
+    "providers":    [
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/fp_logo1.png",
+            "ascent": 23,
+            "height": 30,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/fp_logo2.png",
+            "ascent": 23,
+            "height": 30,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/spielerbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/supporterbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/vipbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/adminbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/fp_logo7.png",
+            "ascent": 23,
+            "height": 30,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/fp_logo8.png",
+            "ascent": 23,
+            "height": 30,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/fp_logo9.png",
+            "ascent": 23,
+            "height": 30,
+            "chars": ["\uE008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/fp_logo10.png",
+            "ascent": 23,
+            "height": 30,
+            "chars": ["\uE009"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/fp_logo11.png",
+            "ascent": 23,
+            "height": 30,
+            "chars": ["\uE00A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/fp_logo12.png",
+            "ascent": 23,
+            "height": 30,
+            "chars": ["\uE00B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/fp_logo13.png",
+            "ascent": 23,
+            "height": 30,
+            "chars": ["\uE00C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/blackscreen.png",
+            "ascent": 150,
+            "height": 1000,
+            "chars": ["\uE00D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/fp_ghosttrain.png",
+            "ascent": 23,
+            "height": 30,
+            "chars": ["\uE00E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/fp_woodcoaster.png",
+            "ascent": 23,
+            "height": 30,
+            "chars": ["\uE00F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/fp_horseride.png",
+            "ascent": 23,
+            "height": 30,
+            "chars": ["\uE010"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/fp_speedtrials.png",
+            "ascent": 23,
+            "height": 30,
+            "chars": ["\uE011"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/fp_waves.png",
+            "ascent": 23,
+            "height": 30,
+            "chars": ["\uE012"]
+        }
+    ]
+}

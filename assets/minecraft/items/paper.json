@@ -1,0 +1,48 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/paper"
+        },
+
+        "cases": [
+            {
+                "when": "fp_watch",
+                "model": {
+                    "type": "model",
+                    "model": "custom/fp_watch"
+                }
+            },
+            {
+                "when": "fp_keycard",
+                "model": {
+                    "type": "model",
+                    "model": "item/paper/fp_keycard"
+                }
+            },
+            {
+                "when": "fp_nothing",
+                "model": {
+                    "type": "model",
+                    "model": "item/paper/fp_nothing"
+                }
+            },
+            {
+                "when": "fp_minebill",
+                "model": {
+                    "type": "model",
+                    "model": "item/paper/fp_minebill"
+                }
+            },
+            {
+                "when": "fp_minecoin",
+                "model": {
+                    "type": "model",
+                    "model": "item/paper/fp_minecoin"
+                }
+            }
+        ]
+    }
+}
