@@ -139,6 +139,13 @@
             "ascent": 23,
             "height": 30,
             "chars": ["\uE013"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/fp_wildwater.png",
+            "ascent": 23,
+            "height": 30,
+            "chars": ["\uE014"]
         }
     ]
 }
