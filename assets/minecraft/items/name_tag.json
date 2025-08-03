@@ -63,6 +63,13 @@
                     "type": "model",
                     "model": "custom/fp_explorer"
                 }
+            },
+            {
+                "when": "fp_wb_boat",
+                "model": {
+                    "type": "model",
+                    "model": "custom/fp_wb_boat"
+                }
             }
         ]
     }
