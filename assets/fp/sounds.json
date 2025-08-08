@@ -197,5 +197,20 @@
       "sounds": [
           "fp:entrance/theme_entrance_m"
       ]
+  },
+  "misc_party": {
+      "sounds": [
+          "fp:misc/fp_party"
+      ]
+  },
+  "parade_1_m": {
+      "sounds": [
+          "fp:entrance/fp_parade_1_m"
+      ]
+  },
+  "parade_2_m": {
+      "sounds": [
+          "fp:entrance/fp_parade_2_m"
+      ]
   }
 }
