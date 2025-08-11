@@ -205,12 +205,32 @@
   },
   "parade_1_m": {
       "sounds": [
-          "fp:entrance/fp_parade_1_m"
+          "fp:parade/fp_parade_1_m"
       ]
   },
   "parade_2_m": {
       "sounds": [
-          "fp:entrance/fp_parade_2_m"
+          "fp:parade/fp_parade_2_m"
+      ]
+  },
+  "gt_fx_scare_1": {
+      "sounds": [
+          "fp:ghost-train/Jumpscare_1"
+      ]
+  },
+    "gt_fx_scare_2": {
+      "sounds": [
+          "fp:ghost-train/Jumpscare_2"
+      ]
+    },
+    "gt_fx_effect_1": {
+      "sounds": [
+          "fp:ghost-train/Effekt_1"
+      ]
+  },
+  "gt_music_1": {
+      "sounds": [
+          "fp:ghost-train/Music_1"
       ]
   }
 }
