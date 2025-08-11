@@ -146,6 +146,13 @@
             "ascent": 23,
             "height": 30,
             "chars": ["\uE014"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:title/fp_gt_scare.png",
+            "ascent": 40,
+            "height": 90,
+            "chars": ["\uE015"]
         }
     ]
 }
